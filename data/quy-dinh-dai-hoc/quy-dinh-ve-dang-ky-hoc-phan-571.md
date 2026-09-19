@@ -12,17 +12,9 @@ language: "vi"
 
 # Quy định về đăng ký học phần
 
-Kho tri thức - UEH
+QUY ĐỊNH ĐĂNG  KÝ,  MỞ LỚP HỌC PHẦN VÀ HỦY HỌC PHẦN CỦA HỌC VIÊN CAO HỌC TRONG ĐÀO TẠO THEO HỆ THỐNG TÍN CHỈ TẠI ĐẠI HỌC KINH TẾ THÀNH PHỐ HỒ CHÍ MINH
 
-Đang xử lý...
-
-Danh mục
-
-Quy định về đăng ký học phần
-
-QUY ĐỊNH ĐĂNG  KÝ,  MỞ LỚP HỌC PHẦN VÀ HỦY HỌC PHẦN CỦA HỌC VIÊN CAO HỌC TRONG ĐÀO TẠO THEO HỆ THỐNG TÍN CHỈ TẠI ĐẠI HỌC KINH TẾ THÀNH PHỐ HỒ CHÍ MINH
-
-(Ban hành kèm theo Quyết định: 4108/QĐ-ĐHKT-VSĐH ngày 25 tháng 12 năm 2018 của Hiệu trưởng Trường Đại học Kinh tế TP. Hồ Chí Minh)
+(Ban hành kèm theo Quyết định: 4108/QĐ-ĐHKT-VSĐH ngày 25 tháng 12 năm 2018 của Hiệu trưởng Trường Đại học Kinh tế TP. Hồ Chí Minh)
 
 Chương I
 
@@ -46,21 +38,21 @@ LHP: lớp học phần.
 
 Chương II
 
-QUY ĐỊNH ĐĂNG KÝ HỌC PHẦN 
+QUY ĐỊNH ĐĂNG KÝ HỌC PHẦN
 
-Điều 3. Đối tượng, hình thức và thời gian đăng ký 
+Điều 3. Đối tượng, hình thức và thời gian đăng ký
 
 Đối tượng: Học viên đang học chương trình đào tạo bậc cao học và còn trong thời gian đào tạo theo quy định;
 
- Hình thức: đăng ký trực tuyến;
+ Hình thức: đăng ký trực tuyến;
 
 Thời gian: theo thông báo cụ thể trong Kế hoạch đăng ký học phần.
 
-Điều 4. Quy định đăng ký 
+Điều 4. Quy định đăng ký
 
-Học viên được phép đăng ký và theo học bất cứ học phần nào trong chương trình đào tạo của ngành/chuyên ngành có mở trong học kỳ, nếu thỏa mãn các điều kiện ràng buộc của học phần (học phần tiên quyết, học phần học trước, học phần song hành,....) và LHP tương ứng còn trong thời gian đăng ký và đủ khả năng tiếp nhận học viên đăng ký. 
+Học viên được phép đăng ký và theo học bất cứ học phần nào trong chương trình đào tạo của ngành/chuyên ngành có mở trong học kỳ, nếu thỏa mãn các điều kiện ràng buộc của học phần (học phần tiên quyết, học phần học trước, học phần song hành,....) và LHP tương ứng còn trong thời gian đăng ký và đủ khả năng tiếp nhận học viên đăng ký.
 
-Số tín chỉ học viên đăng ký trong học kỳ phù hợp với quy định của Trường Đại học Kinh tế TP.Hồ Chí Minh về số tín chỉ đăng ký tối thiểu, tối đa. 
+Số tín chỉ học viên đăng ký trong học kỳ phù hợp với quy định của Trường Đại học Kinh tế TP.Hồ Chí Minh về số tín chỉ đăng ký tối thiểu, tối đa.
 
 Học viên phải đóng học phí trong thời gian quy định. Sau thời gian quy định, Trường sẽ hủy học phần chưa đóng học phí của học viên trong hệ thống;
 
@@ -74,23 +66,23 @@ Lớp học phần có thể bị hủy do số lượng đăng ký không đủ
 
 Học viên tham khảo Thời khóa biểu dự kiến của Phòng Kế hoạch đào tạo – Khảo thí được công bố trên website Viện Đào tạo Sau đại học.
 
-Viện Đào tạo Sau đại học công bố thời gian quy định đăng ký học phần, thời gian đóng học phí. 
+Viện Đào tạo Sau đại học công bố thời gian quy định đăng ký học phần, thời gian đóng học phí.
 
 Học viên đăng nhập vào tài khoản cá nhân và đăng ký các học phần.
 
 Trong thời gian đăng ký theo quy định, học viên có thể điều chỉnh (thêm, xóa, thay đổi lớp học phần). Khi học viên hoàn tất đóng học phí sẽ không thể điều chỉnh thời khóa biểu.
 
-Chấp nhận học viên đăng ký học lại, học cải thiện, học vượt. Học viên tự kiểm tra các học phần đăng ký phải thuộc chương trình đào tạo của mình. 
+Chấp nhận học viên đăng ký học lại, học cải thiện, học vượt. Học viên tự kiểm tra các học phần đăng ký phải thuộc chương trình đào tạo của mình.
 
 Học viên đóng học phí trong thời gian quy định. Hình thức đóng theo quy định của Trường.
 
 Chươn­­g III
 
-QUY ĐỊNH ĐĂNG KÝ HỌC PHẦN BỔ SUNG 
+QUY ĐỊNH ĐĂNG KÝ HỌC PHẦN BỔ SUNG
 
-Điều 6. Đối tượng, hình thức và thời gian đăng ký 
+Điều 6. Đối tượng, hình thức và thời gian đăng ký
 
-Đối tượng: 
+Đối tượng:
 
 - Học viên có nhu cầu học vượt các học phần của Khóa trước;
 
@@ -98,7 +90,7 @@ QUY ĐỊNH ĐĂNG KÝ HỌC PHẦN BỔ SUNG
 
 Hình thức: Học viên ghi thông tin và nộp “Phiếu đăng ký học phần” theo Mẫu VSĐH.QT.04.03 tại Viện Đào tạo Sau đại học.
 
-Thời hạn nộp phiếu: trước ngày thông báo TKB chính thức 10 ngày. 
+Thời hạn nộp phiếu: trước ngày thông báo TKB chính thức 10 ngày.
 
 Chương IV
 
@@ -122,7 +114,7 @@ Chương V
 
 QUY ĐỊNH VỀ VIỆC HỦY HỌC PHẦN ĐÃ ĐĂNG KÝ
 
-Điều 8. Đối tượng, hình thức và thời gian nộp phiếu đề nghị hủy học phần đã đăng ký 
+Điều 8. Đối tượng, hình thức và thời gian nộp phiếu đề nghị hủy học phần đã đăng ký
 
 Đối tượng: Sau thời gian đăng ký học phần, do hoàn cảnh cá nhân (bận đi công tác, lý do sức khỏe, gia cảnh, lý do khách quan khác...), học viên có yêu cầu hủy học phần;
 
@@ -136,7 +128,7 @@ b) Hủy học phần đã đóng học phí và đề nghị được rút họ
 
 c) Hủy học phần đã đóng học phí và không rút học phí: trước ngày thi kết thúc học phần của học phần hủy 15 ngày.
 
-Điều 9. Quy định cụ thể về hủy học phần đăng ký 
+Điều 9. Quy định cụ thể về hủy học phần đăng ký
 
 Trường không giải quyết những trường hợp yêu cầu hủy học phần ngoài thời gian quy định;
 
@@ -154,21 +146,21 @@ Viện Đào tạo Sau đại học thống kê nhu cầu người học dựa t
 
 Theo đề nghị của tập thể học viên.
 
-Điều 11. Đề nghị mở lớp học phần  
+Điều 11. Đề nghị mở lớp học phần
 
-Đối tượng: học viên thuộc diện đang học tại trường, chưa hết thời gian đào tạo của khóa. 
+Đối tượng: học viên thuộc diện đang học tại trường, chưa hết thời gian đào tạo của khóa.
 
 Hình thức: học viên tập hợp và nộp “Phiếu đề nghị mở lớp học phần” theo Mẫu VSĐH.QT.04.02;
 
 Thời gian: khi học viên có nhu cầu;
 
-Quy định: 
+Quy định:
 
-        - Căn cứ vào Phiếu đề nghị mở lớp và quy định về số lượng, Trường xem xét và mở các lớp học phần tương ứng trong thời gian phù hợp;
+        - Căn cứ vào Phiếu đề nghị mở lớp và quy định về số lượng, Trường xem xét và mở các lớp học phần tương ứng trong thời gian phù hợp;
 
 - Trường sẽ hủy các lớp học phần đối với các trường hợp số lượng học viên đăng ký không đủ quy định mở lớp và đóng học phí không đúng quy định.
 
-Điều 12. Quy định cụ thể 
+Điều 12. Quy định cụ thể
 
 Học viên phải đóng học phí ngay sau khi được Trường hỗ trợ đăng ký học phần bổ sung; các học phần ngoài kế hoạch
 
@@ -191,5 +183,3 @@ Các học phần được đăng ký và không đóng phí theo thời gian qu
 Quy định này có hiệu lực kể từ ngày 01/01/2019. Tất cả các văn bản trước đây có nội dung không phù hợp hoặc trái với quy định này không còn hiệu lực;
 
 Các ông (bà) Trưởng phòng, Trưởng khoa, Trưởng đơn vị đào tạo, toàn thể công chức, viên chức và các học viên có liên quan chịu trách nhiệm thi hành quy định này./-
-
-Bạn còn thắc mắc cần hỗ trợ, để UEH trả lời cho bạn nhé!
