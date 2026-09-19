@@ -57,6 +57,10 @@ Giải thích cách tiếp cận của bạn khi lập trình (implement) các p
 **`RecursiveChunker.chunk` / `_split`** — hướng tiếp cận:
 > Áp dụng chiến lược chia đệ quy ưu tiên từ mức cấu trúc lớn đến nhỏ: `["\n\n", "\n", ". ", " ", ""]`. Base case là khi chuỗi có độ dài nhỏ hơn hoặc bằng `chunk_size` hoặc đã duyệt hết danh sách separator (lúc đó cắt cưỡng bức theo slice). Quá trình gom các đoạn con (splits) sử dụng một `buffer` để ghép các đoạn nhỏ lại với nhau miễn là không vượt quá `chunk_size`.
 
+**`HeadingChunker.chunk` (Chiến lược riêng của tôi — Bắt buộc theo Biến thể K4-L3A)** — hướng tiếp cận:
+> Thiết kế bộ tách văn bản chuyên biệt cho quy chế và sổ tay đại học dựa trên tiêu đề/phần mục: nhận diện các định dạng Markdown (`#`, `##`, `###`) và cấu trúc văn bản pháp quy học vụ (`Chương ...`, `Điều \d+\.`, `Mục \d+`, `\d+\.\s+[A-ZÀ-Ỹ]`). Áp dụng kỹ thuật **Heading Enrichment** (gắn tiêu đề phân cấp vào đầu mỗi chunk) giúp mô hình vector giữ trọn ngữ cảnh của điều khoản mà không bị xé đôi giữa chừng. Khi một điều khoản quá dài, hàm tự động fallback sang `RecursiveChunker` nhưng vẫn bảo toàn tiền tố tiêu đề `[Điều ...]`.
+
+
 ### Lớp EmbeddingStore
 
 **`add_documents` + `search`** — hướng tiếp cận:
@@ -70,7 +74,7 @@ Giải thích cách tiếp cận của bạn khi lập trình (implement) các p
 **`answer`** — hướng tiếp cận:
 > Nhận câu hỏi từ người dùng, gọi `self.store.search(question, top_k)` để thu thập các đoạn context liên quan nhất. Lắp ghép các đoạn văn bản này thành một block `--- Ngữ cảnh ---` rõ ràng kèm lời nhắc hệ thống (chỉ trả lời dựa trên ngữ cảnh được cung cấp, không bịa đặt) và `--- Câu hỏi ---`, sau đó chuyển toàn bộ prompt này cho hàm `self.llm_fn` để sinh câu trả lời hoàn chỉnh.
 
----
+
 
 ## 3. Hoàn thiện code (Core Implementation) — Cá nhân (30 điểm)
 

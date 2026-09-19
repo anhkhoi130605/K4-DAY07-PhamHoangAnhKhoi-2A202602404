@@ -12,17 +12,7 @@ language: "vi"
 
 # Thông tin Công việc - Cơ sở y tế
 
-Kho tri thức - UEH
-
-Đang xử lý...
-
-Danh mục
-
-Thông tin Công việc - Cơ sở y tế
-
 Thông tin Ban Chăm sóc người học – Bộ phận y tế
-
-Thông tin công việc - Cơ sở y tế
 
 Công tác y tế trường học, chăm sóc sức khỏe, tinh thần
 
@@ -54,13 +44,13 @@ Công tác y tế trường học, chăm sóc sức khỏe, tinh thần
 
 + Chịu trách nhiệm tìm kiếm đơn vị cung ứng dịch vụ y tế tại KTX Nguyễn Văn Linh. Đầu mối quản lý, theo dõi công tác y tế của đơn vị cung ứng.
 
-Cơ sở vật chất: 
+Cơ sở vật chất:
 
 Ban Chăm sóc người học - Bộ phận y tế có 03 phòng làm việc tại 03 cơ sở lớn của UEH (A, B và N).
 
 Diện tích một phòng khoảng 4mx8m. Mỗi phòng đều được trang bị: 02 giường lưu bệnh, 01- 02 bộ bàn ghế làm việc và khám bệnh, 01- 02 bộ máy tính, 01 máy in, tủ thuốc (thuốc điều trị các bệnh thông thường), tủ đựng hồ sơ, máy nước uống nóng lạnh, máy lạnh, và các trang thiết bị y tế (nồi hấp dụng cụ, máy thử tiểu đường, máy đo huyết áp, máy xông mũi họng, bộ khám bệnh ngũ quan, đèn cực tím khử trùng, xe lăn, cáng cứu thương,…cần thiết để phục vụ cho công tác sơ cấp cứu và điều trị các bệnh thông thường cho VC và SV trong thời gian làm việc và học tập tại UEH.
 
-Nhân lực:  
+Nhân lực:
 
 Ban Chăm sóc người học - Bộ phận y tế, Đại học Kinh tế TP. Hồ Chí Minh có tổng số 04 VC (01 Bác sĩ chuyên khoa cấp I và 03 Y sĩ)
 
@@ -78,7 +68,7 @@ Cơ sở A - 59C Nguyễn Đình Chiểu, Phường Võ Thị Sáu, Quận 3
 
 02
 
-01 Bác sĩ CKI; 01 Y sĩ 
+01 Bác sĩ CKI; 01 Y sĩ
 
 2
 
@@ -94,8 +84,4 @@ Cơ sở N - Đại lộ Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chán
 
 01
 
-Y sĩ 
-
- 
-
-Bạn còn thắc mắc cần hỗ trợ, để UEH trả lời cho bạn nhé!
+Y sĩ

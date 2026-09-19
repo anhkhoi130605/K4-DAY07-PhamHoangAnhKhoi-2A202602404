@@ -12,15 +12,7 @@ language: "vi"
 
 # Học bổng Khuyến khích học tập
 
-Kho tri thức - UEH
-
-Đang xử lý...
-
-Danh mục
-
-Học bổng Khuyến khích học tập
-
- 1. Các mức học bổng xác định như sau:
+ 1. Các mức học bổng xác định như sau:
 
 1.1. Đối với sinh viên các khóa:
 
@@ -46,15 +38,13 @@ Trong đó:
 
 ai: số tín chỉ của học phần i tham gia xét học bổng.
 
-n: số học phần sinh viên đăng ký học thuộc chương trình đào tạo thứ nhất trong học kỳ xét học bổng. Không bao gồm học phần trả nợ, cải thiện, các học phần chuyển điểm, miễn học (kể cả học phần tiếng Anh); học phần Giáo dục thể chất, Giáo dục quốc phòng và ngoại ngữ 2, học phần khóa luận, học kỳ doanh nghiệp hoặc tương đương. Riêng Điểm trung bình tích lũy xét học bổng của sinh viên Cử nhân tài năng ISB.Bbus và Asean Co-op bao gồm học phần chuyển điểm khi trao đổi sinh viên quốc tế.
+n: số học phần sinh viên đăng ký học thuộc chương trình đào tạo thứ nhất trong học kỳ xét học bổng. Không bao gồm học phần trả nợ, cải thiện, các học phần chuyển điểm, miễn học (kể cả học phần tiếng Anh); học phần Giáo dục thể chất, Giáo dục quốc phòng và ngoại ngữ 2, học phần khóa luận, học kỳ doanh nghiệp hoặc tương đương. Riêng Điểm trung bình tích lũy xét học bổng của sinh viên Cử nhân tài năng ISB.Bbus và Asean Co-op bao gồm học phần chuyển điểm khi trao đổi sinh viên quốc tế.
 
 - Điểm rèn luyện (sau đây gọi là kết quả rèn luyện) được căn cứ theo Quy định Đánh giá kết quả rèn luyện sinh viên ĐHCQ tại thời điểm xét học bổng.
 
- 
+2. Đối với tân sinh viên trình độ đại học, căn cứ xét học bổng là điểm xét tuyển đầu vào UEH (không tính điểm ưu tiên đối tượng và khu vực tuyển sinh) hoặc theo quy định của Đề án tuyển sinh UEH.
 
-2. Đối với tân sinh viên trình độ đại học, căn cứ xét học bổng là điểm xét tuyển đầu vào UEH (không tính điểm ưu tiên đối tượng và khu vực tuyển sinh) hoặc theo quy định của Đề án tuyển sinh UEH. 
-
- 3. Điều kiện được xét học bổng khuyến khích học tập UEH
+ 3. Điều kiện được xét học bổng khuyến khích học tập UEH
 
 3.1. Sinh viên được xét học bổng khuyến khích học tập UEH cần thỏa mãn các điều kiện sau:
 
@@ -68,7 +58,7 @@ n: số học phần sinh viên đăng ký học thuộc chương trình đào t
 
 - Chưa nhận bất kỳ học bổng nào tương đương với 01 suất học bổng toàn phần của học bổng UEH.
 
-3.2. Tân sinh viên được xét học bổng  khuyến khích học tập UEH cần thỏa các điều kiện sau:
+3.2. Tân sinh viên được xét học bổng  khuyến khích học tập UEH cần thỏa các điều kiện sau:
 
 - Có điểm xét tuyển đầu vào xét thứ tự từ trên xuống theo chỉ tiêu phân bổ học bổng UEH;
 
@@ -86,16 +76,14 @@ rèn luyện của sinh viên sắp xếp theo thứ tự:
 
 + Mức học bổng: Xuất sắc, Giỏi, Khá;
 
-      + Trong từng mức học bổng: Kết quả học tập từ cao đến thấp;
+      + Trong từng mức học bổng: Kết quả học tập từ cao đến thấp;
 
-      + Trường hợp bằng kết quả học tập: Kết quả rèn luyện từ cao đến thấp;
+      + Trường hợp bằng kết quả học tập: Kết quả rèn luyện từ cao đến thấp;
 
-      + Trường hợp bằng kết quả học tập và rèn luyện: Ưu tiên sinh viên học song ngành song chuyên ngành;
+      + Trường hợp bằng kết quả học tập và rèn luyện: Ưu tiên sinh viên học song ngành song chuyên ngành;
 
 Nếu số lượng sinh viên đủ điều kiện được cấp học bổng nhiều hơn số suất học bổng được phân bổ thì xét cấp theo thứ tự từ trên xuống đến khi hết số suất học bổng được xác định.
 
-Lưu ý: UEH xác định mốc thời gian chốt dữ liệu kết quả học tập linh động trong kỳ. Sau thời gian này, các trường hợp cộng điểm thưởng Nghiên cứu khoa học sẽ không điều chỉnh điểm trung bình xét học bổng.
+Lưu ý: UEH xác định mốc thời gian chốt dữ liệu kết quả học tập linh động trong kỳ. Sau thời gian này, các trường hợp cộng điểm thưởng Nghiên cứu khoa học sẽ không điều chỉnh điểm trung bình xét học bổng.
 
 Tham khảo thêm Quy định về chính sách học bổng cho sinh viên Đại học chính quy trong đào tạo theo hệ thống tín chỉ tại trường Đại học Kinh tế TP. Hồ Chí Minh: https://dsa.ueh.edu.vn/quy-dinh-quy-trinh/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien-tai-dai-hoc-kinh-te-thanh-pho-ho-chi-minh/
-
-Bạn còn thắc mắc cần hỗ trợ, để UEH trả lời cho bạn nhé!

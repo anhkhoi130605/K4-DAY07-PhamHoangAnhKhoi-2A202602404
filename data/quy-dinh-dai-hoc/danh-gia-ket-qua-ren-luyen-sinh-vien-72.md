@@ -12,14 +12,6 @@ language: "vi"
 
 # Đánh giá kết quả rèn luyện sinh viên
 
-Kho tri thức - UEH
-
-Đang xử lý...
-
-Danh mục
-
-Đánh giá kết quả rèn luyện sinh viên
-
 Nhằm thực hiện mục tiêu của ngành giáo dục là đào tạo con người Việt Nam phát triển toàn diện, có đạo đức, tri thức, sức khoẻ, thẩm mỹ và nghề nghiệp, trung thành với lý tưởng cách mạng; ở môi trường đại học, bên cạnh nhiệm vụ học tập, sinh viên đại học chính quy còn có nhiệm vụ rèn luyện “kỹ năng”, nâng cao ý thức, phẩm chất chính trị, đạo đức, lối sống.
 
 Như vậy, việc đánh giá kết quả rèn luyện khi là sinh viên đại học có khác biệt gì so với xếp loại hạnh kiểm khi là học sinh trung học phổ thông. Chúng ta hãy cùng tìm hiểu nhé.
@@ -40,29 +32,29 @@ Khung điểm
 
 Đánh giá về trách nhiệm chấp hành pháp luật và nội quy, quy chế của UEH
 
-0 – 25 điểm
+0 – 25 điểm
 
 2
 
 Đánh giá về trách nhiệm, tinh thần và thái độ trong học tập
 
-0 – 20 điểm
+0 – 20 điểm
 
 3
 
-Đánh giá về trách nhiệm tham gia các hoạt động chính trị - xã hội, văn hóa, văn nghệ, thể thao, phòng chống tội phạm, tệ nạn xã hội 
+Đánh giá về trách nhiệm tham gia các hoạt động chính trị - xã hội, văn hóa, văn nghệ, thể thao, phòng chống tội phạm, tệ nạn xã hội
 
 0 – 20 điểm
 
 4
 
-Đánh giá về trách nhiệm công dân trong quan hệ cộng đồng
+Đánh giá về trách nhiệm công dân trong quan hệ cộng đồng
 
 0 – 15 điểm
 
 5
 
-Đánh giá trách nhiệm và kết quả tham gia công tác cán bộ lớp, công tác đoàn thể, các tổ chức khác trong nhà trường hoặc có thành tích xuất sắc trong học tập, rèn luyện được cơ quan có thẩm quyền khen thưởng
+Đánh giá trách nhiệm và kết quả tham gia công tác cán bộ lớp, công tác đoàn thể, các tổ chức khác trong nhà trường hoặc có thành tích xuất sắc trong học tập, rèn luyện được cơ quan có thẩm quyền khen thưởng
 
 0 – 20 điểm
 
@@ -84,7 +76,7 @@ Thực hiện kê khai thông tin nội - ngoại trú đúng yêu cầu
 
 Gia tăng điểm rèn luyện
 
-Tham gia các hoạt động ngoại khóa do UEH tổ chức (về học thuật, nghiên cứu khoa học; về chính trị – xã hội, văn hóa, văn nghệ, thể thao, phòng chống tệ nạn xã hội)
+Tham gia các hoạt động ngoại khóa do UEH tổ chức (về học thuật, nghiên cứu khoa học; về chính trị – xã hội, văn hóa, văn nghệ, thể thao, phòng chống tệ nạn xã hội)
 
 Tham gia các hoạt động cộng đồng tại địa phương, nơi cư trú (hoạt động tình nguyện, công ích, v.v. do đoàn thể, chính quyền địa phương phát động, tổ chức; hoạt động của trường khác, doanh nghiệp, tổ chức phi chính phủ, v.v. được quy đổi tương đương)
 
@@ -98,17 +90,17 @@ Trừ điểm rèn luyện
 
 Vi phạm quy định, nội quy, quy chế
 
-Thiếu ý thức trong tham gia hoạt động (tự ý bỏ cuộc, vắng không phép, làm hư hỏng trang thiết bị, v.v.)
+Thiếu ý thức trong tham gia hoạt động (tự ý bỏ cuộc, vắng không phép, làm hư hỏng trang thiết bị, v.v.)
 
 Vi phạm chính sách, pháp luật
 
 Tra cứu điểm rèn luyện tích lũy
 
-Điểm rèn luyện trong học kỳ: https://drs.ueh.edu.vn/
+Điểm rèn luyện trong học kỳ: https://drs.ueh.edu.vn/
 
-Kết quả đánh giá toàn khóa học: https://drs.ueh.edu.vn/
+Kết quả đánh giá toàn khóa học: https://drs.ueh.edu.vn/
 
-Hồ sơ sinh viên: https://student.ueh.edu.vn/
+Hồ sơ sinh viên: https://student.ueh.edu.vn/
 
 Chỉ được cập nhật điểm rèn luyện sau khi có quyết định công nhận
 
@@ -122,7 +114,7 @@ Thường trực Hội đồng Đánh giá kết quả rèn luyện sinh viên c
 
 Toàn bộ hoạt động ngoại khóa tại UEH đều được số hóa từ việc đăng ký cho đến ghi nhận tham gia và tính điểm rèn luyện.
 
-Sinh viên có thể theo dõi các sự kiện, hoạt động đang diễn ra, đăng ký tham gia và xem lại danh sách hoạt động đã tham gia, cũng như theo dõi được tổng điểm rèn luyện tích lũy đến thời điểm hiện hành thông qua ứng dụng UEH Student.
+Sinh viên có thể theo dõi các sự kiện, hoạt động đang diễn ra, đăng ký tham gia và xem lại danh sách hoạt động đã tham gia, cũng như theo dõi được tổng điểm rèn luyện tích lũy đến thời điểm hiện hành thông qua ứng dụng UEH Student.
 
 UEH sử dụng các công nghệ nhận diện (mã vạch, QR code, sinh trắc học, v.v.) để ghi nhận nhanh chóng và chính xác việc tham gia hoạt động của sinh viên. Trên cơ sở dữ liệu này, UEH thống kê, phân loại và quy đổi thành điểm rèn luyện ở từng mặt đánh giá tương ứng, cập nhập liên tục trên hệ thống quản lý, tạo điều kiện cho sinh viên kiểm tra mức điểm rèn luyện đã tích lũy và có chiến lược hợp lý để gia tăng điểm rèn luyện.
 
@@ -162,10 +154,8 @@ Kết quả rèn luyện không sử dụng trực tiếp để xếp hạng khi
 
 CƠ SỞ PHÁP LÝ
 
-Thông tư 40/2026/TT-BGDĐT của Bộ Giáo dục và Đào tạo ngày 15 tháng 5 năm 2026 Quy định về công tác sinh viên, xem chi tiết tại đây. 
+Thông tư 40/2026/TT-BGDĐT của Bộ Giáo dục và Đào tạo ngày 15 tháng 5 năm 2026 Quy định về công tác sinh viên, xem chi tiết tại đây.
 
-Quy định Đánh giá kết quả rèn luyện sinh viên đại học chính quy của UEH, xem chi tiết tại đây.
+Quy định Đánh giá kết quả rèn luyện sinh viên đại học chính quy của UEH, xem chi tiết tại đây.
 
 Quy trình hướng dẫn tổ chức, quản lý và phối hợp thực hiện công tác đánh giá kết quả rèn luyện, xem chi tiết tại đây.
-
-Bạn còn thắc mắc cần hỗ trợ, để UEH trả lời cho bạn nhé!
