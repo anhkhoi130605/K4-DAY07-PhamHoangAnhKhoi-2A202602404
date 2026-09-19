@@ -15,8 +15,23 @@ Không yêu cầu toán học — hãy giải thích về mặt khái niệm:
 
 > **Ghi kết quả vào:** Báo cáo — Phần 1 (Khởi động)
 
----
+- Khi hai đoạn văn bản có độ tương tự cosine cao (tiến gần về 1), điều đó có nghĩa là chúng rất tương đồng về mặt ý nghĩa hoặc chủ đề trong không gian ngữ nghĩa, ngay cả khi chúng sử dụng các từ ngữ hoàn toàn khác nhau. Model vector hóa hiểu rằng hai đoạn văn này đang hướng về cùng một góc nhìn hoặc ngữ cảnh.
+- Độ tương tự CAO:
+    
+    Câu A: "Hôm nay trời nhiều mây và có thể sẽ mưa to."
+    
+    Câu B: "Dự báo thời tiết báo sắp có dông lớn chiều nay."
+    (Hai câu dùng từ vựng khác nhau nhưng mang cùng một thông tin/ngữ cảnh).
+    
+    Độ tương tự THẤP:
+    
+    Câu A: "Hôm nay trời nhiều mây và có thể sẽ mưa to."
+    
+    Câu B: "Công thức làm món sườn xào chua ngọt rất đơn giản."
+    (Hai câu nói về hai chủ đề tách biệt hoàn toàn, không liên quan ngữ nghĩa).
+- Cosine Similarity chỉ đo góc, bỏ qua độ dài: Khoảng cách Euclid đo độ lệch tuyệt đối giữa hai điểm trong không gian, do đó rất nhạy cảm với độ dài văn bản. Một câu ngắn và một đoạn văn dài nói về cùng một chủ đề (ví dụ: một câu tóm tắt và một bài báo chi tiết) sẽ bị khoảng cách Euclid đánh giá là "xa nhau" chỉ vì đoạn dài chứa nhiều từ hơn, làm độ dài vector bị phóng to.
 
+  Tập trung vào ngữ nghĩa cốt lõi: Cosine Similarity chỉ quan tâm đến hướng đi (góc giữa hai vector) chứ không quan tâm độ dài (magnitude). Nhờ vậy, nó nhận diện chính xác hai văn bản có cùng ý nghĩa dù độ dài của chúng chênh lệch lớn.
 ### Bài tập 1.2 — Bài toán tính toán Chunking
 
 - Một tài liệu có độ dài 10,000 ký tự. Bạn tiến hành chia nhỏ (chunk) với `chunk_size=500` (kích thước chunk), `overlap=50` (độ chồng chéo). Bạn dự kiến sẽ có bao nhiêu chunks?
@@ -25,7 +40,13 @@ Không yêu cầu toán học — hãy giải thích về mặt khái niệm:
 
 > **Ghi kết quả vào:** Báo cáo — Phần 1 (Khởi động)
 
----
+- Dự kiến sẽ có 23 chunks
+- Số lượng chunk sẽ tăng lên từ 23 thành 25 chunks
+- Bảo toàn ngữ cảnh liền mạch: Tránh tình trạng thông tin quan trọng bị cắt đứt gãy ở ranh giới giữa hai chunk (ví dụ: một câu dài, một định nghĩa, hoặc mối liên hệ giữa chủ ngữ ở chunk trước và vị ngữ ở chunk sau).
+
+    Tăng độ chính xác khi truy vấn (Retrieval): Giúp embedding vector của mỗi chunk chứa đựng đầy đủ ngữ cảnh hơn, từ đó cải thiện điểm tương đồng ngữ nghĩa (cosine similarity) khi tìm kiếm thông tin bằng RAG.
+
+    Đánh đổi: Tăng overlap sẽ sinh ra nhiều chunk hơn, kéo theo chi phí tính toán embedding và dung lượng lưu trữ vector database tăng nhẹ.
 
 ## Phần 2 — Lập trình cốt lõi (Cá nhân)
 
